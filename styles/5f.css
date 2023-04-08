@@ -1,0 +1,28 @@
+p {
+  font-family: Arial;
+  margin-top: 15px;
+  margin-bottom: 0;
+}
+
+.rate {
+  font-size: 30px;
+}
+
+.span-usd {
+  font-size: 17px;
+  color: grey;
+}
+
+.today {
+  font-size: 15px;
+  color: green;
+}
+
+.after {
+  font-size: 15px;
+  color: grey;
+}
+
+.span-down {
+  color: red;
+}
