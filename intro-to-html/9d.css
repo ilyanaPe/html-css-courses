@@ -1,0 +1,23 @@
+div {
+  width: 360px;
+  height: 100px;
+  background-color: rgb(37, 36, 36);
+  padding-top: 5px;
+  padding-left: 10px;
+  padding-bottom: 5px;
+  padding-right: 10px;
+
+}
+p {
+  font-family: Arial; 
+  line-height: 15px;
+}
+.title {
+  color: white;
+  font-weight: bold;
+  font-size: 20px;
+}
+.discript {
+  color: grey;
+  font-size: 15px;
+}
